@@ -1,0 +1,1 @@
+// L'interface est une Contrat strict !
